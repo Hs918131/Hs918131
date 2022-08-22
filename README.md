@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshit Sharma
 - 👀 I’m interested in Web3, AI, ML, Blockchain 
 - 🌱 I’m currently doing BTech CS
-- 💞️ I’m looking to collaborate on Web3, AI, ML, Blockchain
+- 💞️ I’m looking to collaborate on Web Dev , UI-UX
 - 📫 Connect me on LinkedIN @HarshitSharma
 
 <!---
