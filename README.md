@@ -3,16 +3,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Web+Developer;I'm+Techie+Nerd)](https://git.io/typing-svg)
 <br>
 
-
-<h2 align="center">
-<img src="assets/party-parrot.gif" width="31" height="31"/>
-<img src="assets/party-parrot.gif" width="31" height="31"/>
-<img src="assets/party-parrot.gif" width="31" height="31"/>
-<img src="https://komarev.com/ghpvc/?username=Hs918131&&style=round-square" align="center" />
-<img src="assets/party-parrot-2.gif" width="31" height="31"/>
-<img src="assets/party-parrot-2.gif" width="31" height="31"/>
-<img src="assets/party-parrot-2.gif" width="31" height="31"/>
-</h2>
+## Total Profile Visits
+![Visitor Count](https://profile-counter.glitch.me/%7BHs918131%7D/count.svg)
 
 <img align="right" height="250" width="400" alt="GIF" src="assets/giphy.gif"/>
 
