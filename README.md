@@ -19,6 +19,7 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hs918131/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hs918131)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/iamharshitttttt)
+[![Hashnode](https://skillicons.dev/icons?i=hashnode)](https://hs918131.hashnode.dev)
 
 
 ## 🛠️Skills
