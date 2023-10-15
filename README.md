@@ -60,4 +60,4 @@
 
 
 ![](https://i.imgur.com/waxVImv.png)
- [![@hs918131's Holopin board](https://holopin.io/api/user/board?user=hs918131)](https://holopin.io/@hs918131) 
+[![An image of @hs918131's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hs918131)](https://holopin.io/@hs918131)
