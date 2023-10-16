@@ -31,7 +31,7 @@
 [![Frontend](https://skillicons.dev/icons?i=html,css,)]() -->
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,figma)](https://github.com/Hs918131)
+[![Frontend](https://skillicons.dev/icons?i=html,CSS,tailwind,figma)](https://github.com/Hs918131)
 
 
 ### Tools
