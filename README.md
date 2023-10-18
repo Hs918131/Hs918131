@@ -25,17 +25,17 @@
 ## 🛠️Skills
 ### I Code in
 
-[![I Code in](https://skillicons.dev/icons?i=c,cpp,python,javascript)](https://github.com/Hs918131)
+[![I Code in](https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript)](https://github.com/Hs918131)
 
 <!-- ### Web Development
 [![Frontend](https://skillicons.dev/icons?i=html,css,)]() -->
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,figma,)](https://github.com/Hs918131)
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,figma)](https://github.com/Hs918131)
 
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,vscode,azure,streamlit)](https://github.com/Hs918131)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,vscode,azure,streamlit,jupyter)](https://github.com/Hs918131)
 
 <hr>
 
