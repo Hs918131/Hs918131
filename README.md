@@ -1,6 +1,6 @@
 # I'm [Harshit](https://github.com/Hs918131)👋
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Web+Developer;I'm+Techie+Nerd)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Developer;I'm+Techie+Nerd)](https://git.io/typing-svg)
 <br>
 
 ## Total Profile Visits
