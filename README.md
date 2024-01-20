@@ -25,7 +25,7 @@
 ## 🛠️Skills
 ### I Code in
 
-[![I Code in](https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript)](https://github.com/Hs918131)
+[![I Code in](https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,kotlin)](https://github.com/Hs918131)
 
 <!-- ### Web Development
 [![Frontend](https://skillicons.dev/icons?i=html,css,)]() -->
