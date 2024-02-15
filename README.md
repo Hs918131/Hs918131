@@ -31,17 +31,17 @@
 [![Frontend](https://skillicons.dev/icons?i=html,css,)]() -->
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,figma,react,nextjs)](https://github.com/Hs918131)
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react,vite,nextjs)](https://github.com/Hs918131)
 
 
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,expressjs,MongoDB,docker)](https://github.com/Hs918131)
+[![Backend](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,docker,)](https://github.com/Hs918131)
 
 
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,vscode,azure,streamlit,jupyter)](https://github.com/Hs918131)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,figma,androidstudio,vscode,azure,streamlit,jupyter)](https://github.com/Hs918131)
 
 <hr>
 
