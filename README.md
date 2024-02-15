@@ -31,8 +31,8 @@
 [![Frontend](https://skillicons.dev/icons?i=html,css,)]() -->
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,figma,reactjs,nextjs)](https://github.com/Hs918131)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,figma,react,nextjs)](https://github.com/Hs918131)
+
 
 
 ### Tools
