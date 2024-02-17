@@ -9,8 +9,8 @@
 <img align="right" height="250" width="400" alt="GIF" src="assets/giphy.gif"/>
 
 ## About me
-- 👀 I’m interested in Web3, AI-ML, Development
-- 🌱 I’m currently doing BTech CSE
+- 👀 I’m interested in Full-Stack Web and Mobile Apps Development
+- 🌱 I’m currently doing Problem Solving on Leetcode
 - 💞️ I’m looking to collaboration
 <br>
 
