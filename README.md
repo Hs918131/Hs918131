@@ -1,69 +1,81 @@
-# I'm [Harshit](https://github.com/Hs918131)👋
+# Hey there! I'm <a href = "https://www.linkedin.com/in/hs918131/">Harshit Sharma</a>. Welcome to my GitHub👋
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Developer;I'm+Techie+Nerd)](https://git.io/typing-svg)
-<br>
+Fourth year CSE student from [AKTU](https://aktu.ac.in/).
+View my portfolio at [Harshit's Portfolio](https://hs9181.vercel.app/) & terminal at [Harshit's Terminal](https://terminal-folio.vercel.app/) 🔗
 
-## Total Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/%7BHs918131%7D/count.svg)
+## Strengths 🤞
 
-<img align="right" height="250" width="400" alt="GIF" src="assets/giphy.gif"/>
+- Data Structure and Algorithms
+- Full Stack Development
+- Generative AI
+- Database Technologies
+- UI/UX Design
 
-## About me
-- 👀 I’m interested in Full-Stack Web and Mobile Apps Development
-- 🌱 I’m currently doing Problem Solving on Leetcode
-- 💞️ I’m looking to collaboration
-<br>
+## Languages, Tools and Technologies 🚀 
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Full Stack Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,tailwind,svelte,vite,next,react,typescript,express,nodejs" ></td>
+</tr>
+<tr>
+	<td><strong>Design & UI</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=figma,blender,webflow,notion&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Version Control</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+</tr>
 
-## 🚀 Connect with me
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/Hs918131)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hs918131/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/hs918131)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/iamharshitttttt)
-[![Hashnode](https://skillicons.dev/icons?i=hashnode)](https://hs918131.hashnode.dev)
+</table>
 
+## Collaboration 🤝
 
-## 🛠️Skills
-### I Code in
-
-[![I Code in](https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,kotlin)](https://github.com/Hs918131)
-
-<!-- ### Web Development
-[![Frontend](https://skillicons.dev/icons?i=html,css,)]() -->
-
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react,vite,nextjs)](https://github.com/Hs918131)
-
-
-
-### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,docker,)](https://github.com/Hs918131)
-
-
-
-### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,figma,androidstudio,vscode,azure,streamlit,jupyter)](https://github.com/Hs918131)
-
+I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through [Email](mailto:hs918131@gmail.com), [LinkedIn](https://www.linkedin.com/in/hs918131/) or [X](https://x.com/hs918131).
 <hr>
 
-## 📊Github Stats
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hs918131&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="43%" align="left"/>
-</div>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Hs918131&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="52%" align="right"/>
-</div>
-
-<div align="center" width="65%">
+<div align="center">
+    <table width="100%">
+        <tr>
+            <td width="30%">
+		<h3><b>Profile visits</b></h3>
+                <img width="80%" src="https://profile-counter.glitch.me/{hs918131}/count.svg">
+		<h3><b>Leetcode Stats</b></h3>
+                <img src="https://leetcard.jacoblin.cool/hs918131?theme=dark&font=Carrois%20Gothic%20SC&ext=contest" alt="LeetCode Stats">
+            </td>
+            <td width="35%">
+		<h3><b>Projects</b></h3>
+		<a href="https://projectspot.vercel.app/hs918131" target="_blank">
+                <img src="https://github.com/user-attachments/assets/766b2dd1-0cc7-4e31-9fad-ffcaa5a54333" alt="Latest Work" width="100%">
+		</a>
+                <p><a href="https://projectspot.vercel.app/hs918131" target="_blank">View website ↗</a></p>
+              <td width="35%">
+    <h3>Github Stats</h3>
+                <div align="center" width="65%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hs918131&theme=radical&hide_border=false" alt="Harshit github streak">
 </div>
+            </td>
+        </tr>
+    </table>
+</div>
+	
+### Star 🌟 some of my repos if you like them!
+<hr>
+</div>
 
-<!-- ## 📊 GitHub Stats:
+## Contact 📫 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hs918131&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Hs918131&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hs918131&theme=radical&hide_border=false) -->
+To get in touch with me, please send an email to [hs918131@gmail.com](mailto:hs918131@gmail.com). I'll do my best to respond promptly.
 
+## Find Me on ✨LinkedIn✨
 
-![](https://i.imgur.com/waxVImv.png)
-[![An image of @hs918131's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hs918131)](https://holopin.io/@hs918131)
+You can find my LinkedIn profile here: [linkedin.com/in/hs918131/](https://www.linkedin.com/in/hs918131/). 
+
+Feel free to explore my repositories and contributions, Happy coding!
