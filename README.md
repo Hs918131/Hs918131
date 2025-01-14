@@ -44,19 +44,13 @@ I'm open to collaborating on projects related to my interests. If you have an ex
 <div align="center">
     <table width="100%">
         <tr>
-            <td width="30%">
+            <td width="50%">
 		<h3><b>Profile visits</b></h3>
                 <img width="80%" src="https://profile-counter.glitch.me/{hs918131}/count.svg">
 		<h3><b>Leetcode Stats</b></h3>
                 <img src="https://leetcard.jacoblin.cool/hs918131?theme=dark&font=Carrois%20Gothic%20SC&ext=contest" alt="LeetCode Stats">
             </td>
-            <td width="35%">
-		<h3><b>Projects</b></h3>
-		<a href="https://projectspot.vercel.app/hs918131" target="_blank">
-                <img src="https://github.com/user-attachments/assets/766b2dd1-0cc7-4e31-9fad-ffcaa5a54333" alt="Latest Work" width="100%">
-		</a>
-                <p><a href="https://projectspot.vercel.app/hs918131" target="_blank">View website ↗</a></p>
-              <td width="35%">
+              <td width="50%">
     <h3>Github Stats</h3>
                 <div align="center" width="65%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hs918131&theme=radical&hide_border=false" alt="Harshit github streak">
