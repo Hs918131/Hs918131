@@ -53,8 +53,8 @@ I'm open to collaborating on projects related to my interests. If you have an ex
               <td width="50%">
     <h3>Github Stats</h3>
                 <div align="center" width="65%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hs918131&theme=radical&hide_border=false" alt="Harshit github streak">
-</div>
+			<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hs918131&theme=radical&hide_border=false" alt="Harshit github streak">
+		</div>
             </td>
         </tr>
     </table>
